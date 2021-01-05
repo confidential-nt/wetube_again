@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/confidential-nt/wetube_again/issues"
   },
-  "homepage": "https://github.com/confidential-nt/wetube_again#readme"
+  "homepage": "https://github.com/confidential-nt/wetube_again#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
